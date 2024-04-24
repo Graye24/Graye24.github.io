@@ -1,0 +1,61 @@
+
+
+body{
+	background-color: #F7EEED;
+}
+
+h1{
+	color: #985381;
+
+}
+
+p{
+	color: #985381;
+}
+h4{
+	color: #985381;
+}
+
+h1 {
+  font-family: "Lovers Quarrel", cursive;
+  font-weight:400;
+  font-style: normal;
+  font-size: 60px;
+}
+  h4{
+  font-family: "Lovers Quarrel", cursive;
+  font-weight:400;
+  font-style: normal;
+  font-size: 60px;
+}
+p{
+  font-family: "Lovers Quarrel", cursive;
+  font-weight:400;
+  font-style: normal;
+  font-size: 30px;
+}
+ul{
+	list-style-type: none;
+}
+ul{
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+li a {
+	display: block;
+	padding: 8px;
+	background-color:#dddddd;
+}
+
+#photoTheCutestMakeup{
+			background: url("cutehomepage.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			height:300px;
+			padding: 60px 20px;
+		}
