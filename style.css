@@ -52,6 +52,14 @@ li a {
 	background-color:#dddddd;
 }
 
+img{
+	border-color: #985381;
+	border-width: 2px;
+	border-style:solid;
+	border-radius:10%;
+}
+
+
 #photoTheCutestMakeup{
 			background: url("cutehomepage.jpg");
 			background-repeat: no-repeat;
